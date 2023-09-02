@@ -1,6 +1,6 @@
 # Java Practices ☕️
 
-This is some of my work learning basics of programing an Java programing
+This is some of my work learning basics of programing an Java programing /n \n 
 Also introducing myself to GitHub and expanding my knowlage!
 
 ## Let me know 📣 
