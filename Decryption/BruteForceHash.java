@@ -3,11 +3,12 @@
  * 
  * DESCRIPTION:
  * A class demonstrating how to crack a password by brute force, with a part of the password given and the Hash (MD5). 
- * Using the alphabet, we can randomly test combinations of five letter words, 
+ * Using the alphabet, we randomly test combinations of five letter words, 
  * to be combined with the given part of the password.
- * After combined, we then hashing the generatedPassword into MD5.
- * This allows us to compare the generatedHash to the trueHash.
- * If match, then the console prints the complete password and confirms the equality of the hashes.
+ * After combined, we will then hashing the generatedPassword into MD5.
+ * This allows us to compare the generated Hash to the true Hash.
+ * The program will loop the process until it is a match, 
+ * then the console prints the complete password and confirms the equality of the hashes.
  * 
  * TASK:
  * The given part of the password in this example is: "AdaLovelace-". 
