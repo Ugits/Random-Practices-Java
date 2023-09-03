@@ -6,4 +6,4 @@ This is some of my work learning basics of programing an Java programing. Also i
 
 Yes, please leave a comment on my use of code/logic, or if you have some useful tip on how to brand yourself on Github!
  
-### Todelo 👋
+### Todelo! 👋
