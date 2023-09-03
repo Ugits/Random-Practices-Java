@@ -24,7 +24,7 @@ import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
 import java.util.Random;
 
-public class ForceCompareHash {
+public class BruteForceHash {
     
     public static String calculateMD5(String input){
         //Calculates the MD5 hash of the input string
