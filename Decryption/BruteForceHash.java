@@ -1,7 +1,7 @@
 /**
  * -- Brute Force Reversing MD5 Hash --
  * 
- * DESCRIPTION:
+ * DESCRIPTION:[GitHub](https://github.com)
  * A class demonstrating how to crack a password by brute force, with a part of the password given and the Hash (MD5). 
  * Using the alphabet, we randomly test combinations of five letter words, 
  * to be combined with the given part of the password.
