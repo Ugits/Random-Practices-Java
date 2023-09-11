@@ -3,7 +3,7 @@
  * 
  * DESCRIPTION:
  * A class demonstrating how to crack a password by brute force, with a part of the password given and the Hash (MD5). 
- * Using the alphabet, we randomly test combinations of five letter words, 
+ * Using the alphabet, we randomly test combinations of five-letter words,
  * to be combined with the given part of the password.
  * After combined, we will then hashing the generatedPassword into MD5.
  * This allows us to compare the generated Hash to the true Hash.
@@ -17,7 +17,7 @@
  * 
  * ORIGIN TO PROJECT: 
  * Online "Escape Rooms" -> https://csharpskolan.se/escape-rooms/ (lang: Swedish)
- * Encounter given tasks, and solve them by problemsolving, logical thinking and coding.
+ * Encounter given tasks, and solve them by problem-solving, logical thinking and coding.
  */
 
 package Decryption;
